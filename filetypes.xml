@@ -5,6 +5,7 @@
       <mapping pattern="TestCase7" type="PLAIN_TEXT" />
       <mapping pattern="TestCase4" type="PLAIN_TEXT" />
       <mapping pattern="Inputs" type="PLAIN_TEXT" />
+      <mapping pattern="TestCase0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
